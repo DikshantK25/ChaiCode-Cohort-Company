@@ -1,0 +1,19 @@
+Mission: Empower developers to brew exceptional code through collaborative learning and innovation.
+
+Values: Integrity, curiosity, and a shared love for problem-solving (and chai!).
+
+Team First: Foster a culture where every voice is heard and feedback fuels growth.
+
+Agile Workflow: Build iteratively, test rigorously, and deploy fearlessly.
+
+Code with Care: Prioritize clean, maintainable code and meaningful documentation.
+
+Learn Publicly: Share failures and wins openly to uplift the developer community.
+
+Customer Obsession: Solve real-world problems that make users’ lives sweeter.
+
+Innovate Daily: Experiment with new tools and frameworks, but master the basics.
+
+Feedback Loop: Celebrate progress, refine processes, and never stop improving.
+
+Grow Together: Mentor, pair-program, and build a legacy of tech excellence.
